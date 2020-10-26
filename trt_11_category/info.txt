@@ -1,0 +1,10 @@
+-      https://www.trthaber.com/ adresinden 11 farklı kategoride (bilim_teknoloji, dunya, egitim, ekonomi, guncel, gundem, kultur_sanat, saglik, spor, turkiye, yasam) metinler elde edilmiştir.
+
+-      Herbir kategori 3200 adet örnek içermektedir.
+-      Toplamda 3200 x 11 = 35200 adet örnek bulunmaktadır.
+
+
+
+--
+Gürkan Şahin
+27/10/2020
